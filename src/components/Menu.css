@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+
+#navbar {
+    position: absolute;
+    width: 652px;
+    height: 73px;
+    left: 699px;
+    top: 14px;
+}
+.navbar--item {
+    text-decoration: none;
+    color:black;
+    position: absolute;
+    width: 47px;
+    height: 24px;
+    left: 0;
+    top: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    display: inline-block;
+}
+
+#navbar--button-cadastrar {
+    position: absolute;
+    width: 82px;
+    height: 24px;
+    left: 457px;
+    top: 36px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#navbar--button-entrar {
+    position: absolute;
+    width: 48px;
+    height: 24px;
+    left: 575px;
+    top: 36px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 4px;
+}
+

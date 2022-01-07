@@ -1,0 +1,23 @@
+#verMais {
+    position: absolute;
+    width: 115px;
+    height: 35px;
+    left: 75px;
+    top: 831px;
+}
+
+#gitHub {
+    position: absolute;
+    width: 130px;
+    height: 60px;
+    left: 306px;
+    top: 816px;
+}
+
+#playStore {
+    position: absolute;
+    width: 130px;
+    height: 60px;
+    left: 512px;
+    top: 816px;
+}

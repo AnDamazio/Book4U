@@ -1,0 +1,178 @@
+.card--missao {
+    position: absolute;
+    width: 368px;
+    height: 257px;
+    left: 37px;
+    top: 216px;
+    background: #EAB5C2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.card--title-missao {
+    position: absolute;
+    left: 5.64%;
+    right: 72.36%;
+    top: 60.6%;
+    bottom: 33.77%;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.205em;
+    color: #F7F7F7;
+}
+
+.card--content-missao {
+    position: absolute;
+    left: 4.94%;
+    right: 71.12%;
+    top: 69.04%;
+    bottom: 21.2%;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.card--image-missao {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 195px;
+    top: 254px;
+}
+
+.card--visao {
+    position: absolute;
+    width: 334px;
+    height: 257px;
+    left: 450px;
+    top: 215px;
+
+    background: #F8D475;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.card--title-visao {
+    position: absolute;
+    left: 36.68%;
+    right: 41.31%;
+    top: 60.6%;
+    bottom: 33.77%;
+
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.205em;
+
+    color: #FFFFFF;
+}
+
+.card--image-visao {
+    position: absolute;
+    left: 45.79%;
+    right: 50.35%;
+    top: 48.8%;
+    bottom: 42.99%;
+}
+
+.card--content-visao {
+    position: absolute;
+    left: 35.75%;
+    right: 40.31%;
+    top: 70.36%;
+    bottom: 21.2%;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.card--valores {
+    position: absolute;
+    width: 396px;
+    height: 257px;
+    left: 845px;
+    top: 216px;
+
+    background: #A8D8DC;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.card--image-valores {
+    position: absolute;
+    left: 78.63%;
+    right: 18.36%;
+    top: 48.22%;
+    bottom: 42.57%;
+}
+
+.card--title-valores {
+    position: absolute;
+    left: 69.11%;
+    right: 8.88%;
+    top: 60.6%;
+    bottom: 33.77%;
+
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%;
+    /* identical to box height, or 30px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.205em;
+
+    color: #FFFFFF;
+}
+
+.card--content-valores {
+    position: absolute;
+    left: 68.19%;
+    right: 7.88%;
+    top: 70.36%;
+    bottom: 21.2%;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
